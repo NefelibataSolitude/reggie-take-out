@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 
+
 # Log file
 *.log
 
@@ -31,6 +32,7 @@ log.path_IS_UNDEFINED
 offline_user.md
 #upload/
 test/
+application-prd.yaml
 
 ### STS ###
 .apt_generated
